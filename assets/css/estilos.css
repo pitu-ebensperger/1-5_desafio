@@ -18,10 +18,15 @@ body {
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
-  height: 250px;
+  height: 220px;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top;
+  border-radius: .25rem .25rem 0 0;
+}
+
+#Mis-trabajos .card {
+  border: none;
 }
 
 /* Contacto */
