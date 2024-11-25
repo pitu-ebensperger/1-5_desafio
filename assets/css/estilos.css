@@ -6,7 +6,7 @@ body {
 
 #Hero-Section {
   background-color: #373a3c;
-  background-image: url("../img/bg-hero1.jpg");
+  background-image: url("./assets/img/bg-hero1.jpg");
   backdrop-filter: brightness(50%);
   background-blend-mode: overlay ;
   background-repeat: no-repeat;
