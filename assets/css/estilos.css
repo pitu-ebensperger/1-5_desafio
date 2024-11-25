@@ -5,10 +5,14 @@ body {
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+  background-color: #373a3c;
+  background-image: url("../img/bg-hero1.jpg");
+  backdrop-filter: brightness(50%);
+  background-blend-mode: overlay ;
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: left;
+  background-position: bottom;
+  min-height: 500px;
 }
 
 /* Mis trabajos */
